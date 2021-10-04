@@ -1,0 +1,14 @@
+{
+	"name": "gametech",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "GAMETECH DEVELOPER",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"discord.js": "^13.1.0",
+		"discord.js-collector": "^1.8.9",
+		"fs": "0.0.1-security",
+		"js": "^0.1.0"
+	}
+}
